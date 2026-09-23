@@ -1,6 +1,6 @@
 {
   "name": "freshwood-bingo",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "dependencies": {
     "bingo-board": "github:founddrama/bingo-board#semver:^1.0.0",
