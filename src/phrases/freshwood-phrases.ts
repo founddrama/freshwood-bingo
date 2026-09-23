@@ -1,4 +1,3 @@
-// TODO: replace with the real list of phrases (aim for at least 30)
 export const freshwoodPhrases: string[] = [
   `Porch door not shut all the way`,
   `Shed left open`,
