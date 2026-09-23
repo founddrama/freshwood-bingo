@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/freshwood-bingo/static/css/main.afd7172b.chunk.css",
-    "main.js": "/freshwood-bingo/static/js/main.2ef49121.chunk.js",
-    "main.js.map": "/freshwood-bingo/static/js/main.2ef49121.chunk.js.map",
+    "main.js": "/freshwood-bingo/static/js/main.90fe0350.chunk.js",
+    "main.js.map": "/freshwood-bingo/static/js/main.90fe0350.chunk.js.map",
     "runtime-main.js": "/freshwood-bingo/static/js/runtime-main.edc04e74.js",
     "runtime-main.js.map": "/freshwood-bingo/static/js/runtime-main.edc04e74.js.map",
     "static/css/2.ed0722d7.chunk.css": "/freshwood-bingo/static/css/2.ed0722d7.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.ed0722d7.chunk.css",
     "static/js/2.7e6489ff.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.2ef49121.chunk.js"
+    "static/js/main.90fe0350.chunk.js"
   ]
 }
